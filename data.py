@@ -1,3 +1,6 @@
+## Строка для получения токена
+## https://oauth.vk.com/authorize?client_id=6666555&display=page&redirect_uri=https://oauth.vk.com/blank.html&scope=groups,photos&response_type=token&v=5.80
+
 ## группы
 ## TOKEN = '607d0ae972d6273afd37a3ea13db1612fc5af135c4eae3d81d3b4b156cd2a720ce927caad6a3d5819f67f'
 ## фотографии, группы
