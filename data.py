@@ -1,10 +1,8 @@
-## Строка для получения токена
+ ## Строка для получения токена
 ## https://oauth.vk.com/authorize?client_id=6666555&display=page&redirect_uri=https://oauth.vk.com/blank.html&scope=groups,photos&response_type=token&v=5.80
 
-## группы
-## TOKEN = '607d0ae972d6273afd37a3ea13db1612fc5af135c4eae3d81d3b4b156cd2a720ce927caad6a3d5819f67f'
 ## фотографии, группы
-TOKEN = '9e9a3a155e4f27bcfc5054bf805afa40ffaab3886dbf1148a5cb67749dd2fcce77bd0270fb3e5965bd5b5'
+TOKEN = '7e3d0d18860065da439752d5c3e3e3f80bcb03770ae851085f59047b59e57f52ea2b50a5a026ae7636211'
 GROUP_ID = '7111033'
 ALBUM_ID = '258162605'
 PHOTO_DIR = 'D:/work/test_imgs'
